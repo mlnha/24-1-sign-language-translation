@@ -11,10 +11,10 @@
 ## 방법론
 ### 데이터셋
 [AI Hub - 수어 영상](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=103) 데이터셋을 활용했습니다.   
-(2.63TB의 거대한 용량으로 인해 동사 위주의 10개 단어를 선별하여 모델을 학습시켰습니다..)
+(2.63TB의 거대한 용량으로 인해 동사 위주의 10개 단어를 선별하여 모델을 학습시켰습니다.)
 
 ### 모델
-![Uploading 스크린샷 2025-01-19 20.48.06.png…]()
+<img width="948" alt="Image" src="https://github.com/user-attachments/assets/67eafd29-f31f-4d13-9689-160f83123aa4" />
 
 저희가 제안하는 모델의 작동 과정은 다음과 같습니다.
 + 입력 영상에서 Mediapipe를 통해 추출된 관절 좌표 정보를 활용하여 ViViT를 finetuning 합니다.
