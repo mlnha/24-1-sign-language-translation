@@ -14,7 +14,7 @@
 (2.63TB의 거대한 용량으로 인해 동사 위주의 10개 단어를 선별하여 모델을 학습시켰습니다..)
 
 ### 모델
-![dark drawio](https://github.com/kkumtori/readme/assets/112691501/6243667c-ef88-46e8-b958-99cfaf4aac32)
+![Uploading 스크린샷 2025-01-19 20.48.06.png…]()
 
 저희가 제안하는 모델의 작동 과정은 다음과 같습니다.
 + 입력 영상에서 Mediapipe를 통해 추출된 관절 좌표 정보를 활용하여 ViViT를 finetuning 합니다.
