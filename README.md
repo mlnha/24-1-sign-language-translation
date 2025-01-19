@@ -31,10 +31,6 @@ A100
 python demomediapipe.py
 ```
 
-## 예시 결과
-
-<img width="517" alt="image" src="https://github.com/kkumtori/readme/assets/112691501/3acc7351-55ec-4498-9be2-3aa14c869b17">
-
 
 ## 팀원
 
